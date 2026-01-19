@@ -196,7 +196,7 @@ body {
     url(./images/bg-pattern-top.svg),
     url(./images/bg-pattern-bottom.svg);
     background-repeat: no-repeat, no-repeat;
-    background-position: right 40vw bottom 39vh, left 45vw top 44vh;
+    background-position: right 40vw bottom 39vh, left 45vw top 45vh;
     background-attachment: fixed, fixed;
 }
 
